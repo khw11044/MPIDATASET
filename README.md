@@ -1,0 +1,1 @@
+MPI 데이터 pickle로 저장하기 및 pickle파일읽고 시각화하기 
